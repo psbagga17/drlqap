@@ -1,0 +1,6 @@
+*ipynb_checkpoints*
+*pycache*
+*.DS_Store
+*wandb*
+*.vscode*
+**/checkpoints*
